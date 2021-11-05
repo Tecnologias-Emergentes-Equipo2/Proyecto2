@@ -38,10 +38,13 @@ Algunos vídeos de prueba:
  * https://www.youtube.com/watch?v=SkJ7oU9XIwY
  * https://www.youtube.com/watch?v=1jqY0Cm_c0I 
 
-Funcionamiento de la app:
+
+
+
+## Funcionamiento de la app:
 ![](./imgs/001.gif)
 
-Visualización de ejecución funcional de personas con mascarilla, de forma correcta o incorrecta: 
+## Visualización de ejecución funcional de personas con mascarilla, de forma correcta o incorrecta: 
 ![](./imgs/002.png)
 
 ## En caso presentar problemas de instalación:
