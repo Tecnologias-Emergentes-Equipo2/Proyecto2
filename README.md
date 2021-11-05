@@ -45,7 +45,7 @@ Algunos vídeos de prueba:
 ![](./imgs/001.gif)
 
 ## Visualización de ejecución funcional de personas con mascarilla, de forma correcta o incorrecta: 
-![](./imgs/002.png)
+![](./imgs/002.gif)
 
 ## En caso presentar problemas de instalación:
 
